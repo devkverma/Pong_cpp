@@ -3,6 +3,8 @@ Pong: \
   /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/crti.o \
   /usr/lib/gcc/x86_64-redhat-linux/15/crtbegin.o \
   CMakeFiles/Pong.dir/src/main.cpp.o \
+  CMakeFiles/Pong.dir/src/Ball.cpp.o \
+  CMakeFiles/Pong.dir/src/Wall.cpp.o \
   /usr/lib64/libsfml-graphics.so.2.6.2 \
   /usr/lib64/libsfml-window.so.2.6.2 \
   /usr/lib64/libsfml-system.so.2.6.2 \
@@ -61,6 +63,10 @@ Pong: \
 /usr/lib/gcc/x86_64-redhat-linux/15/crtbegin.o:
 
 CMakeFiles/Pong.dir/src/main.cpp.o:
+
+CMakeFiles/Pong.dir/src/Ball.cpp.o:
+
+CMakeFiles/Pong.dir/src/Wall.cpp.o:
 
 /usr/lib64/libsfml-graphics.so.2.6.2:
 
