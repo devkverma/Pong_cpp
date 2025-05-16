@@ -1,6 +1,3 @@
-#include<iostream>
-#include<string>
-#include<SFML/Graphics.hpp>
 #include "../include/Wall.hpp"
 #include "../include/Ball.hpp"
 
