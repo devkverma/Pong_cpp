@@ -801,7 +801,6 @@ CMakeFiles/Pong.dir/src/main.cpp.o: /home/dev/Documents/Pong/src/main.cpp \
   /usr/include/c++/15/bits/hash_bytes.h \
   /usr/include/c++/15/bits/invoke.h \
   /usr/include/c++/15/bits/ios_base.h \
-  /usr/include/c++/15/bits/istream.tcc \
   /usr/include/c++/15/bits/locale_classes.h \
   /usr/include/c++/15/bits/locale_classes.tcc \
   /usr/include/c++/15/bits/locale_conv.h \
@@ -875,8 +874,6 @@ CMakeFiles/Pong.dir/src/main.cpp.o: /home/dev/Documents/Pong/src/main.cpp \
   /usr/include/c++/15/initializer_list \
   /usr/include/c++/15/ios \
   /usr/include/c++/15/iosfwd \
-  /usr/include/c++/15/iostream \
-  /usr/include/c++/15/istream \
   /usr/include/c++/15/iterator \
   /usr/include/c++/15/locale \
   /usr/include/c++/15/map \
@@ -1030,8 +1027,6 @@ CMakeFiles/Pong.dir/src/Ball.cpp.o:
 
 /lib64/ld-linux-x86-64.so.2:
 
-/usr/include/c++/15/bits/istream.tcc:
-
 /home/dev/Documents/Pong/src/Wall.cpp:
 
 /usr/lib/gcc/x86_64-redhat-linux/15/include/stdarg.h:
@@ -1081,8 +1076,6 @@ CMakeFiles/Pong.dir/src/Ball.cpp.o:
 /usr/include/c++/15/x86_64-redhat-linux/bits/error_constants.h:
 
 /usr/include/c++/15/x86_64-redhat-linux/bits/ctype_inline.h:
-
-/usr/include/c++/15/istream:
 
 /usr/include/c++/15/x86_64-redhat-linux/bits/ctype_base.h:
 
@@ -1667,8 +1660,6 @@ CMakeFiles/Pong.dir/src/Ball.cpp.o:
 CMakeFiles/Pong.dir/src/main.cpp.o:
 
 /usr/include/c++/15/bits/uniform_int_dist.h:
-
-/usr/include/c++/15/iostream:
 
 /usr/include/c++/15/bits/vector.tcc:
 

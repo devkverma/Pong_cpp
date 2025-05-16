@@ -804,7 +804,6 @@ CMakeFiles/Pong.dir/src/main.cpp.o
  /usr/include/c++/15/bits/hash_bytes.h
  /usr/include/c++/15/bits/invoke.h
  /usr/include/c++/15/bits/ios_base.h
- /usr/include/c++/15/bits/istream.tcc
  /usr/include/c++/15/bits/locale_classes.h
  /usr/include/c++/15/bits/locale_classes.tcc
  /usr/include/c++/15/bits/locale_conv.h
@@ -878,8 +877,6 @@ CMakeFiles/Pong.dir/src/main.cpp.o
  /usr/include/c++/15/initializer_list
  /usr/include/c++/15/ios
  /usr/include/c++/15/iosfwd
- /usr/include/c++/15/iostream
- /usr/include/c++/15/istream
  /usr/include/c++/15/iterator
  /usr/include/c++/15/locale
  /usr/include/c++/15/map

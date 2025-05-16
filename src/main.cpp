@@ -44,7 +44,7 @@ int main()
             ball.update(dt);
 
             // Collision with top and bottom window bounds
-            if (ball.getBounds().top <= 0 || ball.getBounds().top + ball.getBounds().height >= HEIGHT_OF_WINDOW) {
+            if (ball.getBounds().top <= THICKNESS_OF_WALL || ball.getBounds().top + ball.getBounds().height >= (HEIGHT_OF_WINDOW - THICKNESS_OF_WALL)) {
                 ball.bounceY();
             }
 
